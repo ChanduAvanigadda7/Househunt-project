@@ -1,0 +1,27 @@
+
+1. LOWER() : 
+2. UPPER()
+3. PROPER()
+4. LEFT() :left(text,num_chars)
+5. RIGHT(): right(text,num_chars)
+6. MID() : mid(text,start_num,num_chars)
+
+7. TRIM() : To remove the  extra spaces before the starting char and after the ending char
+
+8. CLEAN() : To remove the non printable character
+9. CONCATENATE()
+10. LEN()
+11. FIND() : It will return index value
+
+12. SEARCH()
+13. SUBSTITUTE():" If we know the value
+14. REPLACE(): if we dont know the value but we know the index value
+15. CODE()
+16. CHAR()
+17. TEXT JOIN()
+18. TEXT SPLIT()
+19. TEXT()
+20. VALUE()
+21. EXACT()
+
+note: TO enter data in new line we use ALT+ENTER
